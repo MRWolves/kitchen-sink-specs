@@ -32,7 +32,7 @@ release = '0.0.1'
 # ones.
 extensions = [
 	"sphinx.ext.todo",
-	"sphinx_tabs.tabs",
+	'sphinx_tabs.tabs',
 	'sphinx.ext.autosectionlabel',
 	"sphinxcontrib.remoteliteralinclude",
 	'sphinx.ext.imgmath'
