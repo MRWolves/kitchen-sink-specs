@@ -8,5 +8,5 @@ Main Table of Contents
    :maxdepth: 2
    :caption: Contents:
    
-   docs/example-doc.rst
+   docs/features/offline-mode-feature.rst
 
