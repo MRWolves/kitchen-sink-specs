@@ -1,4 +1,4 @@
-MRWolf Sphinx Project Documentation Template
+MRWolf Sphinx Kitchen Sink Application Specs
 ============================================
 
 Main Table of Contents
